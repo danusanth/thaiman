@@ -15,9 +15,9 @@
     ],
     "andere": [
       {
-        "title": "Anmeldeformular",
+        "title": "Sponsoring",
         "description": "Für neue Mitglieder",
-        "file": "documents/anmeldung.pdf"
+        "file": "documents/invite.pdf"
       }
     ]
   }
