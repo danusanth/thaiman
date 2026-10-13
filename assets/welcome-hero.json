@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-11-14",
+    "title": "Herbstfest",
+    "description": "Gemeinsames Fest mit Musik, Tanz und traditionellem Essen für die ganze Familie.",
+    "url": "https://example.com/events/herbstfest"
+  },
+  {
+    "date": "2026-12-06",
+    "title": "Kulturabend",
+    "description": "Ein Abend mit Tanzaufführungen, Gesang und Vorträgen der Jugendgruppe.",
+    "url": "https://example.com/events/kulturabend"
+  },
+  {
+    "date": "2027-01-16",
+    "title": "Pongal-Feier",
+    "description": "Wir feiern das Erntedankfest Pongal mit gemeinsamem Kochen und Spielen.",
+    "url": "https://example.com/events/pongal"
+  }
+]
