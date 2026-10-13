@@ -1,0 +1,23 @@
+{
+    "statuten": [
+      {
+        "title": "Statuten Thaiman SC",
+        "description": "Gültig ab Generalversammlung 2024",
+        "file": "documents/statuten.pdf"
+      }
+    ],
+    "jahresberichte": [
+      {
+        "title": "Jahresbericht 2026",
+        "year": 2026,
+        "file": "documents/jahresbericht-2026.pdf"
+      }
+    ],
+    "andere": [
+      {
+        "title": "Anmeldeformular",
+        "description": "Für neue Mitglieder",
+        "file": "documents/anmeldung.pdf"
+      }
+    ]
+  }
