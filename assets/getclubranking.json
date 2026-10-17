@@ -1,0 +1,89 @@
+{
+  "status": "200",
+  "data": [
+    {
+      "Club_ID": "5",
+      "ClubName": "SC Royal Bern",
+      "FullName": "SC Royal Bern",
+      "Logo_url": "https:\/\/stfainfo.ch\/preview\/images\/Team Logos\/5.png",
+      "TotalPoints": "32.0000"
+    },
+    {
+      "Club_ID": "14",
+      "ClubName": "SC Swissboys Bern",
+      "FullName": "SC Swissboys Bern",
+      "Logo_url": "https:\/\/stfainfo.ch\/preview\/images\/Team Logos\/14.png",
+      "TotalPoints": "28.0000"
+    },
+    {
+      "Club_ID": "6",
+      "ClubName": "SC Tamil Blue Birds",
+      "FullName": "SC Tamil Blue Birds",
+      "Logo_url": "https:\/\/stfainfo.ch\/preview\/images\/Team Logos\/6.png",
+      "TotalPoints": "24.0000"
+    },
+    {
+      "Club_ID": "3",
+      "ClubName": "FC Tamil Little Stars",
+      "FullName": "FC Tamil Little Stars",
+      "Logo_url": "https:\/\/stfainfo.ch\/preview\/images\/Team Logos\/3.png",
+      "TotalPoints": "20.0000"
+    },
+    {
+      "Club_ID": "7",
+      "ClubName": "SC Young Star Lyss",
+      "FullName": "SC Young Star Lyss",
+      "Logo_url": "https:\/\/stfainfo.ch\/preview\/images\/Team Logos\/7.png",
+      "TotalPoints": "14.0000"
+    },
+    {
+      "Club_ID": "1",
+      "ClubName": "Ilam Siruthaikal \u00a0SC",
+      "FullName": "Ilam Siruthaikal \u00a0SC",
+      "Logo_url": "https:\/\/stfainfo.ch\/preview\/images\/Team Logos\/1.png",
+      "TotalPoints": "14.0000"
+    },
+    {
+      "Club_ID": "10",
+      "ClubName": "Thaiman SC Zug",
+      "FullName": "Thaiman SC Zug",
+      "Logo_url": "https:\/\/stfainfo.ch\/preview\/images\/Team Logos\/10.png",
+      "TotalPoints": "14.0000"
+    },
+    {
+      "Club_ID": "9",
+      "ClubName": "Tamil Youth St. Gallen",
+      "FullName": "Tamil Youth St. Gallen",
+      "Logo_url": "https:\/\/stfainfo.ch\/preview\/images\/Team Logos\/9.png",
+      "TotalPoints": "14.0000"
+    },
+    {
+      "Club_ID": "4",
+      "ClubName": "SC Blue Star Lausanne",
+      "FullName": "SC Blue Star Lausanne",
+      "Logo_url": "https:\/\/stfainfo.ch\/preview\/images\/Team Logos\/4.png",
+      "TotalPoints": "8.0000"
+    },
+    {
+      "Club_ID": "2",
+      "ClubName": "FC CITY BOYS Zurich",
+      "FullName": "FC CITY BOYS Zurich",
+      "Logo_url": "https:\/\/stfainfo.ch\/preview\/images\/Team Logos\/2.png",
+      "TotalPoints": "8.0000"
+    },
+    {
+      "Club_ID": "8",
+      "ClubName": "Tamil United FC",
+      "FullName": "Tamil United FC",
+      "Logo_url": "https:\/\/stfainfo.ch\/preview\/images\/Team Logos\/8.png",
+      "TotalPoints": "8.0000"
+    },
+    {
+      "Club_ID": "125",
+      "ClubName": "Tamilar SC 2024",
+      "FullName": "Tamilar SC 2024",
+      "Logo_url": "https:\/\/stfainfo.ch\/preview\/images\/Team Logos\/125.jpg",
+      "TotalPoints": "8.0000"
+    }
+  ]
+}
