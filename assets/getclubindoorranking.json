@@ -1,1 +1,167 @@
-{ "status": "200", "data": [] }
+{
+  "status": "200",
+  "data": [
+    {
+      "Club_ID": "14",
+      "ClubName": "SC Swissboys Bern",
+      "FullName": "SC Swissboys Bern",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/14.png",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "17.0000",
+      "TotalPoints": "17.0000"
+    },
+    {
+      "Club_ID": "5",
+      "ClubName": "SC Royal Bern",
+      "FullName": "SC Royal Bern",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/5.png",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "15.0000",
+      "TotalPoints": "15.0000"
+    },
+    {
+      "Club_ID": "1",
+      "ClubName": "Ilam Siruthaikal  SC",
+      "FullName": "Ilam Siruthaikal  SC",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/1.png",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "13.0000",
+      "TotalPoints": "13.0000"
+    },
+    {
+      "Club_ID": "7",
+      "ClubName": "SC Young Star Lyss",
+      "FullName": "SC Young Star Lyss",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/7.png",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "11.0000",
+      "TotalPoints": "11.0000"
+    },
+    {
+      "Club_ID": "125",
+      "ClubName": "Tamilar SC 2024",
+      "FullName": "Tamilar SC 2024",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/125.jpg",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "9.0000",
+      "TotalPoints": "9.0000"
+    },
+    {
+      "Club_ID": "68",
+      "ClubName": "GENEVA STAR",
+      "FullName": "GENEVA STAR",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/68.jpg",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "9.0000",
+      "TotalPoints": "9.0000"
+    },
+    {
+      "Club_ID": "85",
+      "ClubName": "Hood blaq",
+      "FullName": "Hood blaq",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/85.png",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "9.0000",
+      "TotalPoints": "9.0000"
+    },
+    {
+      "Club_ID": "11",
+      "ClubName": "Young Birds FC Luzern",
+      "FullName": "Young Birds FC Luzern",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/11.png",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "9.0000",
+      "TotalPoints": "9.0000"
+    },
+    {
+      "Club_ID": "44",
+      "ClubName": "FC Tamil Sporting ",
+      "FullName": "FC Tamil Sporting ",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/44.png",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "8.0000",
+      "TotalPoints": "8.0000"
+    },
+    {
+      "Club_ID": "71",
+      "ClubName": "SC Memento GR",
+      "FullName": "SC Memento GR",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/71.jpg",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "6.0000",
+      "TotalPoints": "6.0000"
+    },
+    {
+      "Club_ID": "6",
+      "ClubName": "SC Tamil Blue Birds",
+      "FullName": "SC Tamil Blue Birds",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/6.png",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "6.0000",
+      "TotalPoints": "6.0000"
+    },
+    {
+      "Club_ID": "8",
+      "ClubName": "Tamil United FC",
+      "FullName": "Tamil United FC",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/8.png",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "6.0000",
+      "TotalPoints": "6.0000"
+    },
+    {
+      "Club_ID": "10",
+      "ClubName": "Thaiman SC Zug",
+      "FullName": "Thaiman SC Zug",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/10.png",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "6.0000",
+      "TotalPoints": "6.0000"
+    },
+    {
+      "Club_ID": "13",
+      "ClubName": "SC Limmattal Baden",
+      "FullName": "SC Limmattal Baden",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/13.png",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "6.0000",
+      "TotalPoints": "6.0000"
+    },
+    {
+      "Club_ID": "9",
+      "ClubName": "Tamil Youth St. Gallen",
+      "FullName": "Tamil Youth St. Gallen",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/9.png",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "6.0000",
+      "TotalPoints": "6.0000"
+    },
+    {
+      "Club_ID": "3",
+      "ClubName": "FC Tamil Little Stars",
+      "FullName": "FC Tamil Little Stars",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/3.png",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "3.0000",
+      "TotalPoints": "3.0000"
+    },
+    {
+      "Club_ID": "138",
+      "ClubName": "Super Giants Union",
+      "FullName": "Super Giants Union",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/138.jpg",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "3.0000",
+      "TotalPoints": "3.0000"
+    },
+    {
+      "Club_ID": "16",
+      "ClubName": "SC Vanavil Luzern",
+      "FullName": "SC Vanavil Luzern",
+      "Logo_url": "https://stfainfo.ch/preview/images/Team Logos/16.JPG",
+      "MinusPoints": "0.0000",
+      "PlusPoints": "3.0000",
+      "TotalPoints": "3.0000"
+    }
+  ]
+}
