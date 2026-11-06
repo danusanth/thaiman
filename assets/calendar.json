@@ -44,7 +44,7 @@
     { "date": "2027-07-04", "title": "KODAI VIZHA VALVAI BLUES 2027", "type": "tournament", "categories": ["Senior"], "surface": "outdoor", "league": "Normal League", "status": "unconfirmed" }
   ],
   "recurring": [
-    {"type": "training-senior", "title": "Training Senioren", "weekday": "friday", "time": "19:30–21:00", "location": "Kantonsschule Zug, Doppelturnhalle", "until": "2027-04-30", "except": []},
-    {"type": "training-junior", "title": "Training Junioren", "weekday": "friday", "time": "19:30–21:00", "location": "FMS-Halle Zug", "until": "2027-04-30", "except": []}
+    {"type": "training-senior", "title": "Training", "weekday": "friday", "time": "19:30–21:00", "location": "Kantonsschule Zug, Doppelturnhalle", "until": "2027-04-30", "except": ["2026-12-25"]},
+    {"type": "training-junior", "title": "Training", "weekday": "friday", "time": "19:30–21:00", "location": "FMS-Halle Zug", "until": "2027-04-30", "except": ["2026-12-25"]}
   ]
 }
