@@ -1,7 +1,7 @@
 {
   "events": [
     { "date": "2026-11-08", "title": "Tamil United 2026", "location": "8863 Buttikon/SZ", "type": "tournament", "categories": ["Senior"], "surface": "indoor", "league": "Normal League", "status": "confirmed" },
-    { "date": "2026-11-14", "title": "Hallen Masters Junior 2026", "location": "2543 Lengnau/BE", "type": "tournament", "categories": ["Women's", "Junior U17", "Junior U21"], "surface": "indoor", "league": "Normal League", "status": "confirmed" },
+    { "date": "2026-11-14", "title": "Hallen Masters Junior 2026", "location": "2543 Lengnau/BE", "type": "tournament", "categories": ["Women's", "Junior U17", "Junior U21"], "surface": "indoor", "league": "Normal League", "status": "confirmed", "time": "09:00" },
     { "date": "2026-11-15", "title": "Hallen Masters Junior 2026", "location": "2543 Lengnau/BE", "type": "tournament", "categories": ["Junior U11", "Junior U09", "Junior U13", "Junior U15"], "surface": "indoor", "league": "Normal League", "status": "confirmed" },
     { "date": "2026-11-29", "title": "மாவீரர் வாரம்", "location": "2543 Lengnau/BE", "type": "blocked", "categories": [], "surface": "indoor", "league": "Normal League", "status": "unconfirmed" },
     { "date": "2026-12-06", "title": "Hallen Masters 2026", "location": "6343 Rotkreuz/ZG", "type": "tournament", "categories": ["Senior"], "surface": "indoor", "league": "Normal League", "status": "confirmed", "teams": 2 },
